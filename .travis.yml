@@ -1,6 +1,5 @@
 language: c
-cache:
-  bundler: true
+cache : bundler
 os : linux
 jobs:
   include:
