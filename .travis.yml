@@ -1,4 +1,7 @@
 language: c
+cache:
+  bundler: true
+  cocoapods: true
 os : linux
 jobs:
   include:
